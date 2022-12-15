@@ -1,1 +1,1 @@
-Stacks, Queues - LIFO, FIFO
+Stacks and Queues Monty project.
