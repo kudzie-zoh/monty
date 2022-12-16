@@ -86,7 +86,4 @@ int short_stack_error(unsigned int line_number, char *op);
 int div_error(unsigned int line_number);
 int pchar_error(unsigned int line_number, char *message);
 
-/* ESCAPING THE GETLINE COMPILATION ERROR */
-size_t getline(char **lineptr, size_t *n, FILE *stream);
-
 #endif /* __MONTY_H__ */
